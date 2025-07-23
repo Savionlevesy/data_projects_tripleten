@@ -1,6 +1,18 @@
 # data_projects_tripleten
-4 tripleten projects
-https://public.tableau.com/views/Budgetandrevenue/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/DataVisualizationproject_17460926013800/Top3StateVisualization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/BuildingaDashboardforMonitoringReturns/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/RestaurantPerformanceAnalysis_17504898572100/RestaurantPerformanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Portfolio of completed projects I worked on while attending the Business intelligence analystics TripleTen Bootcamp.
+
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 0 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 5 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+<!--
+| 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+-->
